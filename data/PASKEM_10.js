@@ -1,0 +1,1 @@
+var json_PASKEM_10 = {"type":"FeatureCollection","name":"PASKEM_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"102","No.MA":"A22S229274"},"geometry":{"type":"Point","coordinates":[106.664141593430529,-6.277104785696641]}}]}

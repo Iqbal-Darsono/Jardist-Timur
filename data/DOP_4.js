@@ -1,0 +1,1 @@
+var json_DOP_4 = {"type":"FeatureCollection","name":"DOP_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"102","Diameter":"50"},"geometry":{"type":"Point","coordinates":[106.664711448710719,-6.292133151576611]}}]}
